@@ -1,0 +1,17 @@
+npm install formik yup
+npm install react-router-dom
+npm install @mui/material @mui/icons-material
+npm install node-sass
+------------------------------
+Errors : 
+Module not found: Error: Can't resolve '@emotion/react' in 
+'C:\Users\hp\Desktop\Mohini\React\reactpr2sept23\crudapplication\node_modules\@mui\styled-engine\GlobalStyles'
+solution : npm install @emotion/react @emotion/styled
+--------------------------------
+npm install -g json-server
+-----------------------
+json-server --watch db.json --port 3001
+-------------------------------------
+npm install redux react-redux redux-thunk
+
+
